@@ -1,4 +1,4 @@
-package com.example.routes
+package pulihora.routes
 
 import akka.http.scaladsl.server.Route
 import akka.http.scaladsl.server.directives.PathDirectives.pathEndOrSingleSlash

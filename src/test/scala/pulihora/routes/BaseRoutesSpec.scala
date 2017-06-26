@@ -1,4 +1,4 @@
-package com.example.routes
+package pulihora.routes
 
 import akka.http.scaladsl.model.StatusCodes
 import akka.http.scaladsl.testkit.ScalatestRouteTest

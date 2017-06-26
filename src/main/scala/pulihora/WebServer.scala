@@ -1,10 +1,10 @@
-package com.example
+package pulihora
 
 import akka.actor.ActorSystem
 import akka.http.scaladsl.Http
 import akka.http.scaladsl.server.Directives
 import akka.stream.ActorMaterializer
-import com.example.routes.{ BaseRoutes, SimpleRoutes }
+import pulihora.routes.{ BaseRoutes, SimpleRoutes }
 
 import scala.io.StdIn
 

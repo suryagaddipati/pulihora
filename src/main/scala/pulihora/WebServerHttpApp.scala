@@ -1,4 +1,4 @@
-package com.example
+package pulihora
 
 import akka.http.scaladsl.marshallers.xml.ScalaXmlSupport.defaultNodeSeqMarshaller
 import akka.http.scaladsl.server.{ HttpApp, Route }
